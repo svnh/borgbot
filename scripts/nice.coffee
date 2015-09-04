@@ -1,6 +1,6 @@
-###
-Nice donkey
-###
+# Description:
+#   Nice donkey
+#
 
 module.exports = (robot) ->
 
